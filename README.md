@@ -1,7 +1,7 @@
 # google-search-blocklist
 
 ## Introduction
-When you search on Google, You may see some website, with useless articles, but a lot of ad.
+When you search on Google, You may see some websites, with useless articles, but a lot of ad.
 Put them in the blocklist,Please.
 
 ## Setup
