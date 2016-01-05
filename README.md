@@ -7,7 +7,7 @@ Put them in the blocklist,Please.
 ## Setup
 1. Open Google Chrome,Login into google: https://www.google.com/.
 1. Install the official google chrome extension: https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef?hl=en
-1. Click the extension icon on the right-top corner of Google Chrome. Select "Import",Then copy all the content from `BLOCKLIST.md`,and paste it. Then click the button "Import".
+1. Click the extension icon on the right-top corner of Google Chrome. Select "Import",Then copy all the content from `BLOCKLIST`,and paste it. Then click the button "Import".
 
 That is it! Good Luck!
 
